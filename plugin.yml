@@ -1,0 +1,8 @@
+name: LimitedNick
+main: com.gmail.filoghost.limitednick.LimitedNick
+version: 1.0
+softdepend: [WildCommons]
+
+commands:
+   nick:
+      description: Comando principale per il nickname.
